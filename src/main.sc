@@ -9,6 +9,11 @@ theme: /
     state: Hello
         intent!: /привет
         a: Привет привет
+        go: /WhatsUp
+        
+    state: WhatsUp
+        a: Йоу
+
 
     state: Bye
         intent!: /пока
